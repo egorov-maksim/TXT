@@ -1,1 +1,7 @@
 Some text in txt format.
+Name - Maksim
+Second Name - Egorov
+Age - 27
+Amount of cats - 1
+Salary - 300000
+
