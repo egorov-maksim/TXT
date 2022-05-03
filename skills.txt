@@ -1,0 +1,23 @@
+1) Basic Theory
+2) Client-Server Architecture 
+3) HTTP request methods
+4) HTTP server response status codes
+5) JSON and XML structure
+6) API testing using Postman
+7) Working with log files from external server
+8) Web traffic sniffing using Charels and Fiddler
+9) Developer Tools
+10) Virtual Private Network
+11) Mobile testing
+12) iOS, Android Guidelines
+13) Android Studio and XCode
+14) ADB Android Debug Bridge
+15) Terminal and gitbush for file managment
+16) Remote server access
+17) SQL basics
+18) PostgreSQL
+19) Non-relational database Redis
+20) JMeter load testing
+21) Scrum methodology
+22) Python basics
+
